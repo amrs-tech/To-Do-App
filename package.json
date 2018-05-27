@@ -1,0 +1,17 @@
+{
+  "name": "temp",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^27.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "native-base": "2.4.5",
+    "navigationbar-react-native": "0.0.3",
+    "react-native-elements": "0.18.5",
+    "react-native-navbar": "2.1.0"
+  }
+}
